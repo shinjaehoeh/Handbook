@@ -1,0 +1,15 @@
+python 설치
+
+고급 시스템 설정 path 경로 추가
+
+파이썬 - 스크립트 폴더 경로에서 cmd
+
+pip install pyinstaller
+
+pip install requests
+
+콘솔 다시
+
+pyinstaller --onefile <경로><codename>.py
+
+dist 폴더에서 실행 파일 찾기
